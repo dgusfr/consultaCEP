@@ -4,7 +4,9 @@ Um simples aplicativo web para consultar informações de CEP.
 
 ## Logo
 
-![Logo do Projeto]()
+![Logo do Projeto](img/SemTitulo.png)
+
+[![Logo do ProjetoPronto(URL_DA_SUA_IMAGEM)](img/SemTitulo2.png)
 
 ## Descrição
 
@@ -36,10 +38,6 @@ Este projeto consiste em uma página web que permite ao usuário consultar infor
 ## Autor
 
 Desenvolvido por Diego Franco.
-
-## Logo do Projeto
-
-[![Logo do Projeto](URL_DA_SUA_IMAGEM)](URL_DA_SUA_IMAGEM)
 
 ## Licença
 
