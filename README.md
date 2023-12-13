@@ -8,6 +8,8 @@ Um simples aplicativo web para consultar informações de CEP.
   <img src="img/SemTitulo.png" alt="Imagem do Projeto">
 </div>
 
+### Após a Busca Fica:
+
 <div align="center">
   <img src="img/SemTitulo2.png" alt="Imagem do Projeto">
 </div>
