@@ -4,9 +4,13 @@ Um simples aplicativo web para consultar informações de CEP.
 
 ## Logo
 
-![Logo do Projeto](img/SemTitulo.png)
+<div align="center">
+  <img src="img/SemTitulo.png" alt="Imagem do Projeto">
+</div>
 
-[![Logo do ProjetoPronto(URL_DA_SUA_IMAGEM)](img/SemTitulo2.png)
+<div align="center">
+  <img src="img/SemTitulo2.png" alt="Imagem do Projeto">
+</div>
 
 ## Descrição
 
