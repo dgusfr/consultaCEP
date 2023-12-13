@@ -1,5 +1,6 @@
-//Acessando e manipulando o elemento HTML com o ID "cep" por meio da variável cep
-const cep = document.querySelector("#cep");
+// Acessando e manipulando o elemento HTML com o ID "cep" por meio da variável cep
+const cep = document.getElementById("cep");
+const botao = document.getElementById("btnCep");
 
 const preencheFormulario = (resultado) => {
   let idDoCampo;
@@ -10,7 +11,7 @@ const preencheFormulario = (resultado) => {
   }
 };
 
-cep.addEventListener("blur", (evento) => {
+botao.addEventListener("click", () => {
   let busca = cep.value.replace("-", "");
   const options = {
     method: "GET",
