@@ -43,11 +43,6 @@ Este projeto consiste em uma página web que permite ao usuário consultar infor
 2. Insira um CEP válido no campo correspondente.
 3. Os campos do formulário serão preenchidos automaticamente com as informações do CEP consultado.
 
-## Tecnologias Utilizadas
-
-- HTML
-- CSS
-- JavaScript
 
 ## Estrutura do Projeto
 
