@@ -1,6 +1,6 @@
 # Consulta CEP
 
-Um simples aplicativo web para consultar informações de CEP.
+Um simples aplicativo web para consultar informações de CEP, utilizando fetch API e ViaCEP.
 
 ## Logo
 
@@ -12,6 +12,20 @@ Um simples aplicativo web para consultar informações de CEP.
 
 <div align="center">
   <img src="img/SemTitulo2.png" alt="Imagem do Projeto">
+</div>
+
+## Tecnologias Utilizadas
+
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
+    <img src="img/html.png" alt="Logo HTML" width="100"/>
+  </div>
+  <div style="display: flex; justify-content: flex-center;">
+    <img src="img/css.png" alt="Logo CSS" width="100"/>
+  </div>
+  <div style="display: flex; justify-content: flex-end;">
+    <img src="img/js.png" alt="Logo CSS" width="100"/>
+  </div>
 </div>
 
 ## Descrição
@@ -44,7 +58,3 @@ Este projeto consiste em uma página web que permite ao usuário consultar infor
 ## Autor
 
 Desenvolvido por Diego Franco.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
