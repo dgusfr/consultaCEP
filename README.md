@@ -16,8 +16,8 @@ Um simples aplicativo web para consultar informações de CEP, utilizando fetch 
 
 ## Tecnologias Utilizadas
 
-<div style="display: flex; flex-direction: row;">
-  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
+<div style="display: flex; flex-direction: row; align-content: center; align-itens: center">
+  <div style="display: flex; justify-content: flex-start;">
     <img src="img/html.png" alt="Logo HTML" width="100"/>
   </div>
   <div style="display: flex; justify-content: flex-center;">
