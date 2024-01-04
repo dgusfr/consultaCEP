@@ -18,13 +18,13 @@ Um simples aplicativo web para consultar informações de CEP, utilizando fetch 
 
 <div style="display: flex; flex-direction: row; align-content: center; align-itens: center">
   <div style="display: flex; justify-content: flex-start;">
-    <img src="img/html.png" alt="Logo HTML" width="100"/>
+    <img src="img/html.png" alt="Logo HTML" width: auto;/>
   </div>
   <div style="display: flex; justify-content: flex-center;">
-    <img src="img/css.png" alt="Logo CSS" width="100"/>
+    <img src="img/css.png" alt="Logo CSS" width: auto;/>
   </div>
   <div style="display: flex; justify-content: flex-end;">
-    <img src="img/js.png" alt="Logo CSS" width="100"/>
+    <img src="img/js.png" alt="Logo CSS" width: auto;/>
   </div>
 </div>
 
