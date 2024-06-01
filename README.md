@@ -2,6 +2,8 @@
 
 Um simples aplicativo web para consultar informações de CEP, utilizando fetch API e ViaCEP.
 
+## Consumindo API´s com JavaScript.
+
 ## Logo
 
 <div align="center">
